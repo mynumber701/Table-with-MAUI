@@ -6,46 +6,17 @@ using System.ComponentModel;
 using Grid = Microsoft.Maui.Controls.Grid;
 namespace MyExcelMAUIApp
 {
-    public partial class MainPage : ContentPage, INotifyPropertyChanged
+    public partial class MainPage : ContentPage
     {
-        private Entry _selectedEntry;
-        private string _selectedCellText;
 
-        public string SelectedCellText
-        {
-            get => _selectedCellText;
-            set
-            {
-                if (_selectedCellText != value)
-                {
-                    _selectedCellText = value;
-                    OnPropertyChanged(nameof(SelectedCellText));
-
-
-                    // Update the selected cell's text whenever SelectedCellText changes
-                    if (_selectedEntry != null)
-                    {
-                        _selectedEntry.Text = _selectedCellText;
-                    }
-                }
-            }
-        }
-
-        const int CountColumn = 10; //20
-        const int CountRow = 20;  //50
+        const int CountColumn = 10;
+        const int CountRow = 20;
         public MainPage()
         {
             InitializeComponent();
-            BindingContext = this; // Set the BindingContext for data binding
             CreateGrid();
         }
 
-        // Notify when a property changes
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected virtual void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
 
         private void CreateGrid()
         {
@@ -106,6 +77,7 @@ namespace MyExcelMAUIApp
                         HorizontalOptions = LayoutOptions.Fill
                     };
 
+  
                     entry.TextChanged += Entry_TextChanged;
                     entry.Focused += Entry_Focused;
                     entry.Unfocused += Entry_Unfocused;
@@ -120,7 +92,32 @@ namespace MyExcelMAUIApp
         #endregion
 
 
-        #region ColName Focuse Unfocuse Entry_Text
+        #region Entry Event Handlers
+
+        private void Entry_Focused(object sender, FocusEventArgs e)
+        {
+            if (sender is Entry entry)
+            {
+                textInput.Text = entry.Text;
+            }
+        }
+
+        private void Entry_Unfocused(object sender, FocusEventArgs e)
+        {
+
+            textInput.Text = string.Empty;
+        }
+
+        private void Entry_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (sender is Entry entry && entry.IsFocused)
+            {
+                textInput.Text = entry.Text;
+            }
+        }
+        #endregion
+
+        #region Helper Methods
         private string GetColumnName(int colIndex)
         {
             int dividend = colIndex;
@@ -132,43 +129,6 @@ namespace MyExcelMAUIApp
                 dividend = (dividend - modulo) / 26;
             }
             return columnName;
-        }
-
-        private void Entry_Focused(object sender, FocusEventArgs e)
-        {
-            if (sender is Entry entry)
-            {
-                _selectedEntry = entry; // Store the selected Entry reference
-                // Set SelectedCellText to the focused cell's text
-                SelectedCellText = entry.Text;
-
-                // Keep a reference to the focused entry for later use
-                //entry.BindingContext = entry;
-            }
-        }
-
-        private void Entry_Unfocused(object sender, FocusEventArgs e)
-        {
-
-            _selectedEntry = null; // Clear the selected Entry reference
-
-            //if (sender is Entry entry && entry.BindingContext is Entry boundEntry)
-            //{
-            //    // Set the unfocused cell's text to match SelectedCellText
-            //    boundEntry.Text = SelectedCellText;
-
-            //    // Clear the BindingContext to avoid holding a reference
-            //    boundEntry.BindingContext = null;
-            //}
-
-        }
-
-        private void Entry_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            if (sender is Entry entry)
-            {
-                textInput.Text = entry.Text;
-            }
         }
         #endregion
 

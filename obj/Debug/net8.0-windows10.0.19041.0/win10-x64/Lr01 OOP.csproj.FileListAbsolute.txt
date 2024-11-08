@@ -176,3 +176,4 @@ C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041
 C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Lr01 OOP.sourcelink.json

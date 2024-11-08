@@ -29,265 +29,265 @@
     <AppXManifest Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-06T19:49:05.913</Modified>
+      <Modified>2024-11-08T18:30:44.910</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-30T15:02:41.584</Modified>
+      <Modified>2024-11-08T17:51:43.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lr01 OOP.runtimeconfig.json">
       <PackagePath>Lr01 OOP.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-30T15:02:41.303</Modified>
+      <Modified>2024-11-08T17:51:42.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lr01 OOP.dll">
       <PackagePath>Lr01 OOP.dll</PackagePath>
-      <Modified>2024-11-06T19:49:04.698</Modified>
+      <Modified>2024-11-08T18:30:43.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Lr01 OOP.exe</PackagePath>
-      <Modified>2024-11-06T19:49:04.750</Modified>
+      <Modified>2024-11-08T18:30:43.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-10-30T15:01:57.615</Modified>
+      <Modified>2024-11-08T17:29:41.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:29.269</Modified>
+      <Modified>2024-11-08T17:29:44.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:29.300</Modified>
+      <Modified>2024-11-08T17:29:44.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:29.347</Modified>
+      <Modified>2024-11-08T17:29:44.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:29.425</Modified>
+      <Modified>2024-11-08T17:29:44.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:29.707</Modified>
+      <Modified>2024-11-08T17:29:44.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-10-30T15:01:57.577</Modified>
+      <Modified>2024-11-08T17:29:44.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-10-30T15:01:57.579</Modified>
+      <Modified>2024-11-08T17:29:44.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-10-30T15:02:31.769</Modified>
+      <Modified>2024-11-08T17:29:44.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lr01 OOP.deps.json">
       <PackagePath>Lr01 OOP.deps.json</PackagePath>
-      <Modified>2024-10-30T15:02:41.131</Modified>
+      <Modified>2024-11-08T17:51:42.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

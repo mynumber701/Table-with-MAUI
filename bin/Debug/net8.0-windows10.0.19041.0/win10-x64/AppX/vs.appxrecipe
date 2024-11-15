@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-08T18:30:44.910</Modified>
+      <Modified>2024-11-11T10:54:25.756</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Lr01 OOP.dll">
       <PackagePath>Lr01 OOP.dll</PackagePath>
-      <Modified>2024-11-08T18:30:43.755</Modified>
+      <Modified>2024-11-11T10:54:22.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Lr01 OOP.exe</PackagePath>
-      <Modified>2024-11-08T18:30:43.771</Modified>
+      <Modified>2024-11-11T10:54:22.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tanya\source\repos\Lr01 OOP\Lr01 OOP\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
